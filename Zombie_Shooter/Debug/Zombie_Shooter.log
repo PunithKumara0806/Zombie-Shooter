@@ -1,0 +1,39 @@
+﻿  Zombie_Shooter.cpp
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(22,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(23,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(27,55): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(27,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(118,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(126,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(134,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(149,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(156,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(179,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(188,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(201,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\punit\source\repos\Zombie_Shooter\Zombie_Shooter.cpp(539,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Zombie_Shooter.vcxproj -> C:\Users\punit\source\repos\Zombie_Shooter\Debug\Zombie_Shooter.exe
